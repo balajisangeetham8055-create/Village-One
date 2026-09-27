@@ -1,0 +1,10 @@
+# RDS Config - Never push to GitHub
+src/main/resources/application-rds.properties
+
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
